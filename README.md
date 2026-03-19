@@ -39,13 +39,6 @@ Currently building production-style GenAI projects with **Azure OpenAI + LangCha
 
 ## What I'm Building Right Now
 
-- **[enterprise-rag-document-qa](https://github.com/chandrakanthnaik/enterprise-rag-document-qa)**  
-  Secure RAG system for company documents (PDFs, policies, wikis) with citations — FastAPI backend ready for enterprise integration.
-
-- **[ai-agent-business-workflow](https://github.com/chandrakanthnaik/ai-agent-business-workflow)**  
-  Multi-agent system that calls real enterprise APIs (CRM, notification hubs, eligibility engines) — exactly the automation patterns I shipped at T-Mobile.
-
-More projects coming (secure LLM gateway, Azure-deployed Copilot, etc.). Feel free to explore and give feedback!
 
 ---
 
