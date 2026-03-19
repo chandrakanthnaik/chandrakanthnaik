@@ -64,7 +64,6 @@ Currently building production-style GenAI projects with **Azure OpenAI + LangCha
 
 - **Email**: chandrakanth.naik@gmail.com  
 - **LinkedIn**: [linkedin.com/in/chandrakanthnaik](https://linkedin.com/in/chandrakanthnaik)  
-- **Phone**: +1 510-944-3936  
 
 Open to conversations about **AI Integration Engineer** or **GenAI Solutions Architect** roles in enterprise environments.
 
